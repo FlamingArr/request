@@ -17,7 +17,7 @@ Checks if any of the pending requests has finished. This function should be call
 Returns the number of requests currently pending.
 
 
-#### *@Class* `Response`
+### *@Class* `Response`
 ##### *@Field* `code`
 The status code.
 ##### *@Field* `body`
