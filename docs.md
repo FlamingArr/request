@@ -29,4 +29,4 @@ True if `code` is in the 200-299 range, false otherwise.
 ##### *@Method* `:assert()`
 Raises an error if `ok` is false, returns self.
 ##### *@Method* `:table()`
-If `content` is JSON then returns a table represention of it.
+If `body` is JSON then returns a table represention of it.
