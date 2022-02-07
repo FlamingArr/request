@@ -13,6 +13,10 @@ If `options` is given then it can have the following fields:
 ##### *@Method* `request.update()`
 Checks if any of the pending requests has finished. This function should be called in `love.update`.
 
+##### *@Method* `request.getPendingCount()`
+Returns the number of requests currently pending.
+
+
 #### *@Class* `Response`
 ##### *@Field* `code`
 The status code.
