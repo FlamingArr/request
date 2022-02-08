@@ -1,5 +1,5 @@
 # request
-[Löve](https://love2d.org) module to send asynchronous HTTPS requests to desired URLs.
+[Löve](https://love2d.org) library to send asynchronous HTTPS requests to desired URLs.
 
 ## Installation
 Download the repository and put it in a folder named `request`.
