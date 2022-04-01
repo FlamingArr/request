@@ -14,7 +14,7 @@ end
 
 ## Note
 * This library currently requires a bleeding-edge version of löve that comes with [lua-https](https://github.com/love2d/lua-https).
-You can grab such builds of löve from [here](https://github.com/love2d/love/actions/runs/1769672147) and [here for android](https://github.com/FlamingArr/love-android/actions/runs/1803015085).
+You can grab such builds of löve from [here](https://love2d.org/wiki/lua-https) and [here for android](https://github.com/FlamingArr/love-android/actions/runs/1803015085).
 * `love.thread` module must be enabled for asynchronous requests.
 
 ## Example: Fetch quotes
